@@ -74,7 +74,11 @@ Output atau hasil pada layar :
 
 ## Tugas Praktikum 2
 
-![Tugas Praktikum 2](Screenshot/Program1-Syntax.png)
+![Tugas Praktikum 2](Screenshot/Program1-Soal.png)
+
+Sesuai dengan soal di atas maka mari kita ubah ke dalam bentuk syntaxnya, yaitu :
+
+![Syntax](Screenshot/Program1-Syntax.png)
 
 Keterangan syntax di atas dapat di uraikan, yaitu :
 
@@ -87,6 +91,14 @@ Keterangan syntax di atas dapat di uraikan, yaitu :
 Flowchart :
 
 ![Flowchart](Screenshot/Program1-Flowchart.png)
+
+cara eksekusi syntax dalam bentuk flowchartnya, yaitu :
+
+- Pertama mulai
+- masukkan inputan variable x,y,z
+- jika x lebih dari y, y adalah nilai tertinggi maka false, begitu juga dengan variable X adalah nilai tertinggi maka true
+- lalu Z > Max atau Z lebih dari Nilai tertinggi maka C = MAX adalah true lalu tampilkan hasil MAX (Nilai Tertinggi), jika nilai Z kecil dibanding Nilai tertinggi maka false lalu tampilkan hasil max
+- dan hasil keluar, selesai.
 
 Output atau hasil :
 
