@@ -42,6 +42,8 @@
 	<b>TA 2020 / 2021</b>
 </p>
 
+![]()
+
 # Modul Praktikum 2 Struktur Kondisi
 
 ## Latihan 1: Membuat program menentukan nilai akhir
